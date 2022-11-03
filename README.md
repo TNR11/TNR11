@@ -4,7 +4,7 @@
 
 - <b>Coding Projects (Java, C#)</b>
   - [Output formatting](https://github.com/TNR11/Output_formatting)
-  - [Arithmetic calculation](https://github.com/TNR11)
+  - [Arithmetic calculation]([https://github.com/TNR11](https://github.com/TNR11/Arithmetic_calculations))
   - [User input validation](https://github.com/TNR11)
   - [Array & list exercise](https://github.com/TNR11)
   - [Creating a class and instance](https://github.com/TNR11)
