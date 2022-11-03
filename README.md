@@ -9,7 +9,7 @@
   - [Array & list exercise](https://github.com/TNR11/Array_and_List_Exercise)
   - [Creating a class and instance](https://github.com/TNR11/Class_and_instance_exercise)
   - [Inheritance](https://github.com/TNR11/Inheritance_example)
-  - [Polymorhpism](https://github.com/TNR11)
+  - [Polymorhpism](https://github.com/TNR11/Polymorphism_example)
   - [Recursive programming](https://github.com/TNR11)
   - [Guessing game](https://github.com/TNR11)
   - [Processing a book list](https://github.com/TNR11)
