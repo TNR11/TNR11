@@ -10,7 +10,7 @@
   - [Creating a class and instance](https://github.com/TNR11/Class_and_instance_exercise)
   - [Inheritance](https://github.com/TNR11/Inheritance_example)
   - [Polymorhpism](https://github.com/TNR11/Polymorphism_example)
-  - [Recursive programming](https://github.com/TNR11)
+  - [Recursive programming](https://github.com/TNR11/Recursive_programming)
   - [Guessing game](https://github.com/TNR11)
   - [Processing a book list](https://github.com/TNR11)
 - <b>Mobile App Development Projects (Java, Kotlin)</b>
