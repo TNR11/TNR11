@@ -15,8 +15,7 @@
   - [Processing a book list](https://github.com/TNR11/Processing_Book_List)
 - <b>Mobile App Development Projects (Java, Kotlin)</b>
   - [TicTacToe App (Java)](https://github.com/TNR11)
-  - [Recycler view exercise (Kotlin)](https://github.com/TNR11)
-  - [Image search app (Kotlin)](https://github.com/TNR11)
+  - [Image search app (Kotlin)](https://github.com/TNR11/Image_Search_App)
   - [Wintec Karakia/blessings App (Kotlin)](https://github.com/TNR11)
 - <b>Embedded Systems Design (C++)</b>
   - [L.E.D flasher](https://github.com/TNR11)
