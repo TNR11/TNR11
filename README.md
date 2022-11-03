@@ -8,7 +8,7 @@
   - [User input validation](https://github.com/TNR11)
   - [Array & list exercise](https://github.com/TNR11/Array_and_List_Exercise)
   - [Creating a class and instance](https://github.com/TNR11/Class_and_instance_exercise)
-  - [Inheritance](https://github.com/TNR11)
+  - [Inheritance](https://github.com/TNR11/Inheritance_example)
   - [Polymorhpism](https://github.com/TNR11)
   - [Recursive programming](https://github.com/TNR11)
   - [Guessing game](https://github.com/TNR11)
