@@ -7,7 +7,7 @@
   - [Arithmetic calculation](https://github.com/TNR11/Arithmetic_calculations)
   - [User input validation](https://github.com/TNR11)
   - [Array & list exercise](https://github.com/TNR11/Array_and_List_Exercise)
-  - [Creating a class and instance](https://github.com/TNR11)
+  - [Creating a class and instance](https://github.com/TNR11/Class_and_instance_exercise)
   - [Inheritance](https://github.com/TNR11)
   - [Polymorhpism](https://github.com/TNR11)
   - [Recursive programming](https://github.com/TNR11)
