@@ -22,7 +22,7 @@
   - [L.E.D flasher](https://github.com/TNR11)
   - [DC motor controller](https://github.com/TNR11)
 - <b>Cyber Security Projects</b>
-  - [Windows active directory lab setup/config](https://github.com/TNR11)
+  - [Windows active directory lab setup/config](https://github.com/TNR11/Active_Directory_Lab_Setup)
   - [Active directory enumeration using Bloodhound](https://github.com/TNR11)
 
 <h2> 🤳 Connect with me:</h2>
