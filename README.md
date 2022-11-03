@@ -11,7 +11,7 @@
   - [Inheritance](https://github.com/TNR11/Inheritance_example)
   - [Polymorhpism](https://github.com/TNR11/Polymorphism_example)
   - [Recursive programming](https://github.com/TNR11/Recursive_programming)
-  - [Guessing game](https://github.com/TNR11)
+  - [Guessing game](https://github.com/TNR11/Guessing_Game)
   - [Processing a book list](https://github.com/TNR11)
 - <b>Mobile App Development Projects (Java, Kotlin)</b>
   - [TicTacToe App (Java)](https://github.com/TNR11)
