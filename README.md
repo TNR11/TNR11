@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Coding Projects (Java, C#)</b>
-  - [Output formatting](https://github.com/TNR11)
+  - [Output formatting](https://github.com/TNR11/Output_formatting)
   - [Arithematic calculation](https://github.com/TNR11)
   - [User input validation](https://github.com/TNR11)
   - [Array & list exercise](https://github.com/TNR11)
