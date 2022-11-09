@@ -24,7 +24,7 @@
   - [Windows active directory lab setup/config](https://github.com/TNR11/Active_Directory_Lab_Setup)
   - [Active directory enumeration using Bloodhound](https://github.com/TNR11)
 - <b>Certificates</b>
-  - [AWS Academy Data Analytics](https://github.com/TNR11/)
+  - [AWS Academy Data Analytics](https://github.com/TNR11/AWS-Academy-Certificate)
 
 <h2> 🤳 Connect with me:</h2>
 
