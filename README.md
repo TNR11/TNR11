@@ -19,7 +19,7 @@
   - [Wintec Karakia/blessings App (Kotlin)](https://github.com/TNR11)
 - <b>Embedded Systems Design (C++)</b>
   - [L.E.D flasher](https://github.com/TNR11)
-  - [DC motor controller](https://github.com/TNR11)
+  - [PID motor controller](https://github.com/TNR11)
 - <b>Cyber Security Projects</b>
   - [Windows active directory lab setup/config](https://github.com/TNR11/Active_Directory_Lab_Setup)
   - [Active directory enumeration using Bloodhound](https://github.com/TNR11)
