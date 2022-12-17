@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Coding Projects (Java, C#)</b>
+- <b>Coding Basics (Java, C#)</b>
   - [Output formatting](https://github.com/TNR11/Output_formatting)
   - [Arithmetic calculation](https://github.com/TNR11/Arithmetic_calculations)
   - [User input validation](https://github.com/TNR11/User_Input_Validation)
