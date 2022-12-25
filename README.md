@@ -13,6 +13,8 @@
   - [Recursive programming](https://github.com/TNR11/Recursive_programming)
   - [Guessing game](https://github.com/TNR11/Guessing_Game)
   - [Processing a book list](https://github.com/TNR11/Processing_Book_List)
+- <b>Coding Projects (Python)</b>
+ - [Paper Scissors Rock](https://github.com/TNR11/Rock-Paper-Scissors)
 - <b>Mobile App Development Projects (Java, Kotlin)</b>
   - [TicTacToe App (Java)](https://github.com/TNR11)
   - [Image search app (Kotlin)](https://github.com/TNR11/Image_Search_App)
