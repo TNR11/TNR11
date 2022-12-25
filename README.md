@@ -1,4 +1,5 @@
 <h1>Hi, I'm Aadil!</h1>
+I'm a software developer with key skills in C++, Java, C# and Python. I regularly work in Windows, Mac OS and Linux environments. Check out some of my coding references and projects below.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -14,7 +15,7 @@
   - [Guessing game](https://github.com/TNR11/Guessing_Game)
   - [Processing a book list](https://github.com/TNR11/Processing_Book_List)
 - <b>Coding Projects (Python)</b>
- - [Paper Scissors Rock](https://github.com/TNR11/Rock-Paper-Scissors)
+  - [Paper Scissors Rock](https://github.com/TNR11/Rock-Paper-Scissors)
 - <b>Mobile App Development Projects (Java, Kotlin)</b>
   - [TicTacToe App (Java)](https://github.com/TNR11)
   - [Image search app (Kotlin)](https://github.com/TNR11/Image_Search_App)
