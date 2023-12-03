@@ -1,5 +1,5 @@
 <h1>Hi, I'm Aadil!</h1>
-I'm a software developer with key skills in C++, Java, C# and Python. I regularly work in Windows, Mac OS and Linux environments. Check out some of my coding references and projects below.
+I'm a software engineer with key skills in Java, Python and C#. I'm currently working a systems engineer doing a varity of admin tasks in windows and VMWare, as well as data processing.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
