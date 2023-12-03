@@ -3,7 +3,7 @@ I'm a software developer with key skills in C++, Java, C# and Python. I regularl
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Coding Basics (Java, C#)</b>
+- <b>Coding Basics (Java)</b>
   - [Output formatting](https://github.com/TNR11/Output_formatting)
   - [Arithmetic calculation](https://github.com/TNR11/Arithmetic_calculations)
   - [User input validation](https://github.com/TNR11/User_Input_Validation)
