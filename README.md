@@ -22,7 +22,7 @@ I'm a software engineer with key skills in Java, Python and C#. I'm currently wo
   - [Image search app (Kotlin)](https://github.com/TNR11/Image_Search_App)
   - [Wintec Karakia/blessings App (Java)](https://github.com/TNR11/Wintec_Karakia_App)
 - <b>Embedded Systems Design (C++)</b>
-  - [L.E.D flasher](https://github.com/TNR11)
+  - [Robot](https://github.com/TNR11)
   - [PID motor controller](https://github.com/TNR11)
 - <b>Cyber Security Projects</b>
   - [Windows active directory lab setup/config](https://github.com/TNR11/Active_Directory_Lab_Setup)
