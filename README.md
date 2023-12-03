@@ -34,4 +34,4 @@ I'm a software developer with key skills in C++, Java, C# and Python. I regularl
 
 [<img align="left" alt="Aadil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/aadil-imran-2b55a5155/
+[linkedin]: https://www.linkedin.com/in/aadil-i-2b55a5155/
