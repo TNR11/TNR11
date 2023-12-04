@@ -17,6 +17,8 @@ I'm a software engineer with key skills in Java, Python and C#. I'm currently wo
 - <b>Coding Projects (Python)</b>
   - [Paper Scissors Rock](https://github.com/TNR11/Rock-Paper-Scissors)
   - [Web scraper with output to CSV](https://github.com/TNR11/Web-scraper-with-output-to-CSV)
+- <b>Jupyter Notebook Data Analytics (Python)</b>
+  - [Into to Data Analytics in Jupyter Notebook using Pandas](https://github.com/TNR11/Rock-Paper-Scissors)
 - <b>Mobile App Development Projects (Java, Kotlin)</b>
   - [TicTacToe App (Java)](https://github.com/TNR11)
   - [Image search app (Kotlin)](https://github.com/TNR11/Image_Search_App)
